@@ -1,7 +1,46 @@
-# Bài tập lớn môn lập trình web
-Vieweinge: pug  <br>
-backend: express
-![image](https://github.com/Maybetuandat/Quizz_App_PTIT/assets/105091322/61169e20-97bb-4b4e-af5a-4ef6bde362a7)
+# Quiz App - PTIT
 
-#Deploy
-https://csdl.aitc.vn/login
+This is a web-based Quiz App project built for the Web Programming course at PTIT using **Express.js** for the backend and **Pug** as the templating engine for the frontend.
+
+## Table of Contents
+
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- User authentication (login/register)
+- Quiz creation and management
+- Quiz participation and scoring
+- Real-time updates and ranking
+- Mobile-friendly design
+
+## Tech Stack
+
+- **Backend:** Express.js (Node.js)
+- **Frontend Templating:** Pug
+- **Database:** MongoDB
+- **Styling:** Bootstrap / Custom CSS
+
+## Installation
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/)
+  
+### Steps
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
