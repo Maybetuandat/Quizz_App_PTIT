@@ -28,6 +28,14 @@ This is a web-based Quiz App project built for the Web Programming course at PTI
   
   ![Manage Shift](https://github.com/user-attachments/assets/b485d3db-f69d-4e6e-b1d7-b0c7352b64a7)
 
-- **Management Student Result**
+- **Manage Account**
+  ![image](https://github.com/user-attachments/assets/1718199f-c2c5-47b0-8da4-857975fc7777)
+
+- **View Test Result**
+
+  ![image](https://github.com/user-attachments/assets/85b3c2c1-f7fc-47e9-bdf7-bbeebc39a5c7)
+
+- **View Student Result**
   
-  ![Management Student Result](https://github.com/user-attachments/assets/9c88d44f-a075-48fe-98d7-61f72a41c208)
+  ![image](https://github.com/user-attachments/assets/7c1cbd61-b9a9-4bc1-87f6-0e5a5d0df41f)
+
