@@ -1,6 +1,6 @@
 # Quiz App - PTIT
 
-This is a web-based Quiz App project built for the Web Programming course at PTIT using **Express.js** for the backend and **Pug** as the templating engine for the frontend.
+This is a project in  PTIT using **Express.js** for the backend and **Pug** as the templating engine for the frontend.
 ## Features
 
 - User authentication (login/register) 
