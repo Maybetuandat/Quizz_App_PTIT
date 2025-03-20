@@ -38,4 +38,7 @@ This is a project in  PTIT using **Express.js** for the backend and **Pug** as t
 - **View Student Result**
   
   ![image](https://github.com/user-attachments/assets/7c1cbd61-b9a9-4bc1-87f6-0e5a5d0df41f)
+- **CI/CD Pipeline**
+  ![image](https://github.com/user-attachments/assets/efb432a3-3047-4183-92e8-aa5c5987c292)
+
 
