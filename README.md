@@ -39,6 +39,7 @@ This is a project in  PTIT using **Express.js** for the backend and **Pug** as t
   
   ![image](https://github.com/user-attachments/assets/7c1cbd61-b9a9-4bc1-87f6-0e5a5d0df41f)
 - **CI/CD Pipeline**
-  ![image](https://github.com/user-attachments/assets/efb432a3-3047-4183-92e8-aa5c5987c292)
+  ![image](https://github.com/user-attachments/assets/11548989-2a53-4a3a-b0f7-208cd113baa0)
+
 
 
